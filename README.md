@@ -21,7 +21,7 @@ My submissions for the Frontend Mentor Challenges.
        <td>2</td>
        <td>
        <a href="coming soon" target="_blank">
-         3-Column Preview Card Component
+         (IN PROGRESS) 3-Column Preview Card Component
        </a>
        </td>
     </tr>
