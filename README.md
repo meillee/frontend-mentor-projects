@@ -6,9 +6,9 @@ My submissions for the Frontend Mentor Challenges.
 <thead>
   <th> # </th>
   <th> Demo </th>
- </thead>
+</thead>
  
- <tbody>
+<tbody>
     <tr>
        <td>1</td>
        <td>
@@ -16,15 +16,14 @@ My submissions for the Frontend Mentor Challenges.
           QR Code Component
        </a>
        </td>
-     </tr>
-    <tr>
-      <td>2</td>
-      <td>
-      <a href="coming soon" target="_blank">
-         3-Column Preview Card Component
-      </a>
-      </td>
     </tr>
     <tr>
- </tbody>
+       <td>2</td>
+       <td>
+       <a href="coming soon" target="_blank">
+         3-Column Preview Card Component
+       </a>
+       </td>
+    </tr>
+</tbody>
 </table>
