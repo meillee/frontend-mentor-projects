@@ -12,7 +12,7 @@ My submissions for the Frontend Mentor Challenges.
     <tr>
        <td>1</td>
        <td>
-       <a href="https://frontend-mentor-projects-sigma.vercel.app/" target="_blank">
+       <a href="https://qr-code-component-xi-blond.vercel.app/" target="_blank">
           QR Code Component
        </a>
        </td>
