@@ -20,8 +20,8 @@ My submissions for the Frontend Mentor Challenges.
     <tr>
        <td>2</td>
        <td>
-       <a href="coming soon" target="_blank">
-         (IN PROGRESS) 3-Column Preview Card Component
+       <a href="https://3-column-preview-card-component-ivory-xi.vercel.app/" target="_blank">
+         3-Column Preview Card Component
        </a>
        </td>
     </tr>
