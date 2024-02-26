@@ -25,5 +25,13 @@ My submissions for the Frontend Mentor Challenges.
        </a>
        </td>
     </tr>
+    <tr>
+       <td>3</td>
+       <td>
+       <a href="https://single-price-grid-component-fawn-eta.vercel.app/" target="_blank">
+         Single Price Grid Component
+       </a>
+       </td>
+    </tr>
 </tbody>
 </table>
