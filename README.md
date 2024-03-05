@@ -1,6 +1,6 @@
 # Frontend Mentor Projects
 
-This is a collection of my submissions for the Frontend Mentor Challenges.
+This is a collection of my submissions for the Frontend Mentor challenges.
 
 <table>
 <thead>
