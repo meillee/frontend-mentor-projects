@@ -1,6 +1,6 @@
 # Frontend-mentor-projects
 
-My submissions for the Frontend Mentor Challenges.
+This is a collection of my submissions for the Frontend Mentor Challenges.
 
 <table>
 <thead>
@@ -30,6 +30,14 @@ My submissions for the Frontend Mentor Challenges.
        <td>
        <a href="https://single-price-grid-component-fawn-eta.vercel.app/" target="_blank">
          Single Price Grid Component
+       </a>
+       </td>
+    </tr>
+    <tr>
+       <td>4</td>
+       <td>
+       <a href="[https://single-price-grid-component-fawn-eta.vercel.app/](https://meillee.github.io/order-summary-component/)" target="_blank">
+         Order Summary Component
        </a>
        </td>
     </tr>
