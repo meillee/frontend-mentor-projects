@@ -12,7 +12,7 @@ This is a collection of my submissions for the Frontend Mentor challenges.
     <tr>
        <td>1</td>
        <td>
-       <a href="https://qr-code-component-xi-blond.vercel.app/" target="_blank">
+       <a href="https://meillee.github.io/qr-code-component/" target="_blank">
           QR Code Component
        </a>
        </td>
@@ -20,7 +20,7 @@ This is a collection of my submissions for the Frontend Mentor challenges.
     <tr>
        <td>2</td>
        <td>
-       <a href="https://3-column-preview-card-component-ivory-xi.vercel.app/" target="_blank">
+       <a href="https://meillee.github.io/3-column-preview-card-component/" target="_blank">
          3-Column Preview Card Component
        </a>
        </td>
@@ -28,7 +28,7 @@ This is a collection of my submissions for the Frontend Mentor challenges.
     <tr>
        <td>3</td>
        <td>
-       <a href="https://single-price-grid-component-fawn-eta.vercel.app/" target="_blank">
+       <a href="https://meillee.github.io/single-price-grid-component/" target="_blank">
          Single Price Grid Component
        </a>
        </td>
@@ -36,7 +36,7 @@ This is a collection of my submissions for the Frontend Mentor challenges.
     <tr>
        <td>4</td>
        <td>
-       <a href="[https://single-price-grid-component-fawn-eta.vercel.app/](https://meillee.github.io/order-summary-component/)" target="_blank">
+       <a href="https://meillee.github.io/order-summary-component/" target="_blank">
          Order Summary Component
        </a>
        </td>
