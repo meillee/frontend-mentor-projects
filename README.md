@@ -1,4 +1,4 @@
-# Frontend-mentor-projects
+# Frontend Mentor Projects
 
 This is a collection of my submissions for the Frontend Mentor Challenges.
 
