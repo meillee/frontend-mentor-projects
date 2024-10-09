@@ -58,15 +58,3 @@ h1 {
 p {
   color: hsl(220, 15%, 55%);
 }
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  padding: 1rem 0;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
